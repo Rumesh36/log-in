@@ -9,4 +9,4 @@ registerButton.addEventListener('click',function(){
 const submit =document.querySelector('input[value="submit"]');
 submit.addEventListener('click',function(){
     alert("details are submited ")
-})
+});
